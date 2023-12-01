@@ -4,7 +4,13 @@ Test assessment showcasing video player with basic controls and analytics tracki
 
 ## Screencast
 
-Screencast showcasing app: TODO
+Mobile application with analyses logs:
+
+https://github.com/dmytrokirichuk/video-player/assets/105731228/bf115ff3-b272-4edc-a5cf-57c6e54cd21e
+
+Web application:
+
+https://github.com/dmytrokirichuk/video-player/assets/105731228/380bd952-a7fb-4a7d-9038-87075ba39d4d
 
 ## Get Started
 
